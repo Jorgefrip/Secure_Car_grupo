@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUSTek/AndroidStudioProjects/Secure_Car-e07c480f3a37d3b89e5c74a6552a87457d0c43a5/app/src/main/res/layout/activity_agregar_vehiculo.xml" value="0.1431159420289855" />
+        <entry key="..\:/Users/ASUSTek/AndroidStudioProjects/Secure_Car-e07c480f3a37d3b89e5c74a6552a87457d0c43a5/app/src/main/res/layout/activity_home.xml" value="0.1431159420289855" />
+        <entry key="..\:/Users/ASUSTek/AndroidStudioProjects/Secure_Car-e07c480f3a37d3b89e5c74a6552a87457d0c43a5/app/src/main/res/layout/activity_login.xml" value="0.1431159420289855" />
+        <entry key="..\:/Users/ASUSTek/AndroidStudioProjects/Secure_Car-e07c480f3a37d3b89e5c74a6552a87457d0c43a5/app/src/main/res/layout/activity_main.xml" value="0.1431159420289855" />
+        <entry key="..\:/Users/ASUSTek/AndroidStudioProjects/Secure_Car-e07c480f3a37d3b89e5c74a6552a87457d0c43a5/app/src/main/res/layout/activity_mapa.xml" value="0.1431159420289855" />
+        <entry key="..\:/Users/ASUSTek/AndroidStudioProjects/Secure_Car-e07c480f3a37d3b89e5c74a6552a87457d0c43a5/app/src/main/res/layout/activity_maps.xml" value="0.1431159420289855" />
+        <entry key="..\:/Users/ASUSTek/AndroidStudioProjects/Secure_Car-e07c480f3a37d3b89e5c74a6552a87457d0c43a5/app/src/main/res/layout/activity_mostrar_datos.xml" value="0.1431159420289855" />
+        <entry key="..\:/Users/ASUSTek/AndroidStudioProjects/Secure_Car-e07c480f3a37d3b89e5c74a6552a87457d0c43a5/app/src/main/res/layout/activity_registro.xml" value="0.1431159420289855" />
+        <entry key="..\:/Users/ASUSTek/AndroidStudioProjects/Secure_Car-e07c480f3a37d3b89e5c74a6552a87457d0c43a5/app/src/main/res/layout/activity_vista_home.xml" value="0.1431159420289855" />
+        <entry key="..\:/Users/mateo/AndroidStudioProjects/Secure_Car_F/app/src/main/res/layout/activity_home.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/mateo/AndroidStudioProjects/Secure_Car_F/app/src/main/res/layout/activity_mostrar_datos.xml" value="0.33" />
+        <entry key="..\:/Users/mateo/AndroidStudioProjects/Secure_Car_F/app/src/main/res/layout/activity_vista_home.xml" value="0.5" />
+        <entry key="..\:/Users/mateo/AndroidStudioProjects/Secure_Car_F/app/src/main/res/mipmap-anydpi-v26/ic_carro.xml" value="0.4185" />
+        <entry key="..\:/Users/mateo/AndroidStudioProjects/Secure_Car_F/app/src/main/res/mipmap-anydpi-v26/ic_carro_round.xml" value="0.4185" />
+        <entry key="..\:/Users/mateo/AndroidStudioProjects/Secure_Car_F/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.4185" />
+        <entry key="..\:/Users/mateo/AndroidStudioProjects/Secure_Car_F/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.4185" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

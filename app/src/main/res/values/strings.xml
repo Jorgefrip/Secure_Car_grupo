@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Secure_Car</string>
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="pt_usuario">Usuario</string>
+    <string name="pt_contraseña">Contraseña</string>
+    <string name="btn_iniciar_sesion">Iniciar sesión</string>
+    <string name="btn_registrarse">Registrarse</string>
+    <string name="btn_continuar">Continuar</string>
+    <string name="pt_correo">Correo</string>
+    <string name="pt_confirmar_contraseña">Confirmar contraseña</string>
+    <string name="btn_nuevo_vehiculo">Nuevo vehiculo</string>
+    <string name="tv_datos_conductor">Datos conductor</string>
+    <string name="pt_nombre">Nombre</string>
+    <string name="pt_edad">Edad</string>
+    <string name="pt_genero">Genero</string>
+    <string name="pt_id">Numero de identificación</string>
+    <string name="tv_datos_vehiculo">Datos vehiculo</string>
+    <string name="pt_marca">Marca</string>
+    <string name="pt_referencia">Referencia</string>
+    <string name="pt_modelo">Modelo</string>
+    <string name="pt_placa">Placa</string>
+    <string name="pt_color">Color</string>
+    <string name="btn_mapa">Mapa</string>
+    <string name="btn_borrar">x</string>
+    <string name="btn_cerrar_sesion">Cerrar sesion</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="txt_nombre">Nombre:</string>
+    <string name="txt_edad">Edad:</string>
+    <string name="txt_genero">Genero:</string>
+    <string name="txt_id">Identificación:</string>
+    <string name="txt_marca">Marca:</string>
+    <string name="txt_modelo">Modelo:</string>
+    <string name="txt_placa">Placa:</string>
+    <string name="txt_color">Color:</string>
+</resources>
